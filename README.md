@@ -1,6 +1,7 @@
 # hse21_hw2
 
 Колаб первой части: https://colab.research.google.com/drive/1sNdmsdwfe8kUOYTOY15aIT7sqbjvzGsc?usp=sharing
+
 Колаб второй части: https://colab.research.google.com/drive/1Q5rlvNYdxS9IiZ09mJIwFnPG9fkhddwX?usp=sharing
 
 Сколько было предсказано генов всего: 3622
